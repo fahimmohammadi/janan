@@ -3,5 +3,7 @@ public class janan {
         System.out.println("my name is janan and i am lewany");
 
         System.out.println("javid is doing hamam");
+
+        System.out.println("my name is three idiot");
     }
 }
